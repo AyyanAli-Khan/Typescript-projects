@@ -69,5 +69,14 @@ A command-line ATM simulation application.
   - Account balance check
   - Cash withdrawal
   - Cash deposit
-  - Transaction history
 
+### 7. Quiz App
+
+A command-line quiz application.
+
+- **Purpose**: To create a quiz application and practice handling user input and scoring logic in TypeScript.
+- **Usage**: `npx ayyan_quiz_app`
+- **Features**:
+  - Multiple-choice questions
+  - Score tracking
+  - Feedback on answers
